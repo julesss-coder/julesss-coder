@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Julia (@julesss-coder)!
-- 👀 I’m interested in getting really good at programming and finding out which fields of programming I enjoy the most.
-     Freedom is very important to me, so I enjoy reading about libertarian ideas and the Austrian school of economics. 
-     In my free time, I love reading great novels (Jane Austen is one of my favourite writers) and prose (currently on Egon Friedell's 
-     "A Cultural History of the Modern Age").
-- 🌱 I’m currently learning programming and problem-solving, as well as building a virtual computer from scratch with Coursera's "From Nand to Tetris" class.
+- 👀 I’m working hard on getting really good at programming. I am currently studying to be a full-stack web developer (I'm in a bootcamp at Altcademy), but I also enjoy solving problems on LeetCode etc. I'm still in the process of finding out which areas of programming I find the most interesting, though. Sometimes I am overwhelmed with all the fascinating stuff there is to learn about programming and computer science! Recently, I started reading and watching the course materials for the classic "Structure and Interpretation of Computer Programs" (by Abelson and Sussman, 1996) and I love the way they clearly explain the foundational ideas of programming! Reading and working through this book in full will be my next challenge.
+- 🌱 In my free time, I love being in nature, sports, reading classic novels and learning about the Austrian school of economics. I am also fascinated with various learning apps that teach subjects I used to hate in school in such a way that I am beginning to like them.
 - 📫 How to reach me: julesss@posteo.de
 
 <!---
