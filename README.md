@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julia (@julesss-coder)!
-- 👀 I’m working hard on getting really good at programming. I am currently studying to be a full-stack web developer (currently in a bootcamp, learning Java), but I also enjoy solving problems on LeetCode. Recently, I started reading and watching the course materials for the classic "Structure and Interpretation of Computer Programs" (by Abelson and Sussman, 1996) and I love the way they clearly explain the foundational ideas of programming! Reading and working through this book in full will be my next challenge.
-- 🌱 In my free time, I love being in nature, sports, reading classic novels and learning about the Austrian school of economics.
+- 👀 I am a JavaScript developer with 2 years’ experience in front end web development, and a love of problem-solving. So far, I've created websites using HTML, CSS, JavaScript, jQuery, and React. At the moment, I am learning Java and SQL. 
+- 🌱 In my spare time, I like to read (classics, science fiction), and listen to podcasts (libertarianism, Austrian school of economics). Apart from that, I spend as much time as possible in nature.
 - 📫 How to reach me: julesss@posteo.de
 - My portfolio: https://julesss-coder.github.io/personal-portfolio/
 
