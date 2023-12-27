@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julia (@julesss-coder)!
-- 👀 I am a Web developer with 2 years’ experience in front end web development, and a love of problem-solving. So far, I've created websites using HTML, CSS, JavaScript, jQuery, and React. I also have some experience in Java, SQL, and PHP.
-- 🌱 In my spare time, I like to read (classics, science fiction), and listen to podcasts (libertarianism, Austrian school of economics). Apart from that, I spend as much time as possible in nature.
+- 👀 I am a front end developer, currently working with React in a fully remote position. In the past, I also gained some experience with Java, SQL, and PHP. In my spare time, I am trying to learn Prolog. I just love learning new things and problem-solving! 
+- 🌱 Apart from programming, I love to read (classics, science fiction, books that question my worldview), and to spend as much time as possible in nature.
 - 📫 How to reach me: julesss@posteo.de
 - My portfolio: https://julesss-coder.github.io/personal-portfolio/
 
